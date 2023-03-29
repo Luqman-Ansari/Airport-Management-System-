@@ -1,13 +1,6 @@
 ﻿create database airport1
 use airport1
 
-USE master;
-GO
-ALTER DATABASE airport1 SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-GO
-DROP DATABASE airport1;
-GO
-
 Create table airplane
 	(Reg numeric(4) not null primary key,
 	PlaneType numeric(2) not null,
