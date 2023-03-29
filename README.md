@@ -93,6 +93,32 @@ In this question, i used group by function to group all hangars, then counted th
 
 **Query 20: **
 
+I used a group by function to group the planes then counted them.
 
+![image](https://user-images.githubusercontent.com/116886893/228643690-15d3abd6-666f-4a36-9003-4dc301ca6c4e.png)
+
+**Query 21:**
+
+I grouped by the airplanes and counted the number of time they serviced from the service table.
+
+![image](https://user-images.githubusercontent.com/116886893/228644036-e45028a6-9212-4470-a9cc-77124e3ee0c4.png)
+
+**Query 22:**
+
+I grouped by the employees by shift to find the required result.
+
+![image](https://user-images.githubusercontent.com/116886893/228644156-627e1fe9-56db-4db3-806c-8d36400cded8.png)
+
+**Query 23: **
+
+Just used count function to count planes of all owners 
+
+![image](https://user-images.githubusercontent.com/116886893/228644366-7bc52826-3396-4de8-9a5b-cfd15f9fbede.png)
+
+**Query 24: **
+
+I used inner joins to find pilots and their Planes to fly and counted them after grouping the pilots. 
+
+![image](https://user-images.githubusercontent.com/116886893/228644656-5a3b397e-62ca-418a-bf4e-2cac2d2991e1.png)
 
 
