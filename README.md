@@ -1,4 +1,4 @@
-# i210413_C_Asign2
+# Railway Database System 
 **Q1**
 In this Question, it was challenge to handle relations. I handeled them by setting up foreign and primary keys. It was helpful for mantaining all relations in the database.
 
