@@ -28,89 +28,85 @@ In query 7 the challenge was to set a range for our time frame, meaning to under
 **Query 8:**
 In this Question, i didnt face any challenge. I used sub queries to find names of both Person and Corporations.
 
-![image](https://user-images.githubusercontent.com/116886893/228640215-5b5723e7-2688-4061-bad7-59b8a8a0ef40.png)
-
 **Query 9:**
 In this Question I used two inner joins to find the required result. 
 
 ![image](https://user-images.githubusercontent.com/116886893/228640574-3e7da50e-59e8-45dc-8b89-f9d3b4ee1e5c.png)
 
-**Query 10: **
+**Query 10:**
 
 In this Question, I used a group by function to group the planes.
 
 ![image](https://user-images.githubusercontent.com/116886893/228640721-98606a88-2941-460a-bd5e-ee33eb9d2480.png)
 
-**Query 11: **
+**Query 11:**
 
 In this question i used, inner joins and group by function for finding the required result. 
 
 ![image](https://user-images.githubusercontent.com/116886893/228641066-4a58f0db-8fdc-4ba4-b353-bc3eb61a6e85.png)
 
-**Query 12: **
+**Query 12:**
 
 In this Question, I used sub queries to find plane names by their model numbers.
 
-![image](https://user-images.githubusercontent.com/116886893/228641192-0649bf29-5c54-416c-99cd-be88c0c935e7.png)
-
-**Query 13: **
+**Query 13:**
 
 The challenge was to find employees whoare not qualified, hence i used outer join to find those employees. 
 
 ![image](https://user-images.githubusercontent.com/116886893/228641525-bc2727e9-0c7a-4338-8021-64d8358a1010.png)
 
-**Query 14: **
+**Query 14:**
 
 In this question I used 3 inner joins to find the required information as different information was in different tables.
 
-**Query 15: **
+**Query 15:**
 
 In this question, i used a sub query inside inner join to find the planes that are currently not under mantainance, then pilots were found through sub queries, that are allowed to fly that plane. 
 
 ![image](https://user-images.githubusercontent.com/116886893/228642197-fa7f808e-ed10-4216-83c5-b33c107b829a.png)
 
-**Query 16: **
+**Query 16:**
 
 In this question i used two sub queries in inner join and from, to find the reuired result. 
 
 ![image](https://user-images.githubusercontent.com/116886893/228642442-de12de9a-632d-439f-be78-a5b68b029aaa.png)
 
 
-**Query 17: **
+**Query 17:**
 
 I used UNION key word to merge two columns, which were obtained from two different sub Queries. 
 
 ![image](https://user-images.githubusercontent.com/116886893/228642735-5e9820e9-1b00-4564-9411-4b8a3278ec84.png)
 
-**Query 18: **
+**Query 18:**
 
 In this question I used sub queries to find owners who purchased the same plane a month ago. I used diffdate function to find those owners. 
 
-**Query 19: **
+**Query 19:**
 In this question, i used group by function to group all hangars, then counted the planes stored in them. 
 
 ![image](https://user-images.githubusercontent.com/116886893/228643073-89f1212b-3647-4d6f-ac6a-55e1ae3750b0.png)
 
-**Query 20: **
+**Query 20:**
 
 I used a group by function to group the planes then counted them.
 
 ![image](https://user-images.githubusercontent.com/116886893/228643690-15d3abd6-666f-4a36-9003-4dc301ca6c4e.png)
 
-**Query 21:
-**
+**Query 21:**
+
 I grouped by the airplanes and counted the number of time they serviced from the service table.
 
 ![image](https://user-images.githubusercontent.com/116886893/228644036-e45028a6-9212-4470-a9cc-77124e3ee0c4.png)
 
-**Query 22:
-**
+**Query 22:**
+
 I grouped by the employees by shift to find the required result.
 
 ![image](https://user-images.githubusercontent.com/116886893/228644156-627e1fe9-56db-4db3-806c-8d36400cded8.png)
 
-**Query 23:
-**
+**Query 23:**
+
 Just used count function to count planes of all owners 
 
 ![image](https://user-images.githubusercontent.com/116886893/228644366-7bc52826-3396-4de8-9a5b-cfd15f9fbede.png)
