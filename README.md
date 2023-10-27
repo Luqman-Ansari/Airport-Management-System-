@@ -53,8 +53,6 @@ In this Question, I used sub queries to find plane names by their model numbers.
 
 The challenge was to find employees whoare not qualified, hence i used outer join to find those employees. 
 
-![image](https://user-images.githubusercontent.com/116886893/228641525-bc2727e9-0c7a-4338-8021-64d8358a1010.png)
-
 **Query 14:**
 
 In this question I used 3 inner joins to find the required information as different information was in different tables.
