@@ -68,7 +68,7 @@ In this question, i used a sub query inside inner join to find the planes that a
 
 In this question i used two sub queries in inner join and from, to find the reuired result. 
 
-![image](https://user-images.githubusercontent.com/116886893/228642442-de12de9a-632d-439f-be78-a5b68b029aaa.png)
+
 
 
 **Query 17:**
