@@ -31,7 +31,8 @@ In this Question, i didnt face any challenge. I used sub queries to find names o
 **Query 9:**
 In this Question I used two inner joins to find the required result. 
 
-![image](https://user-images.githubusercontent.com/116886893/228640574-3e7da50e-59e8-45dc-8b89-f9d3b4ee1e5c.png)
+![image](https://github.com/Luqman-Ansari/Railway-Database-Management-System/assets/116886893/9bf130ac-1152-498f-b075-f7064a006c6c)
+
 
 **Query 10:**
 
